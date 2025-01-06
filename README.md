@@ -1,2 +1,2 @@
-# smit-competitiono
+# smit-competition
 test
